@@ -22,3 +22,24 @@ body {
   background: var(--white);
   color: var(--dark);
 }
+
+:root {
+  --primary: #2A9F8E;
+  --primary-light: #8FC7C0;
+  --dark: #2C2F32;
+  --gray: #888F91;
+  --white: #FFFFFF;
+}
+
+body {
+  font-family: var(--font-inter), sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-poppins), sans-serif;
+}
