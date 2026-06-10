@@ -1,0 +1,29 @@
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+
+  line-height: 1.1;
+
+  letter-spacing: -0.03em;
+
+  font-weight: 700;
+}
+
+
+h4 {
+  font-size: clamp(1.5rem, 3vw, 2rem);
+}
+
+body {
+  font-family: var(--font-body);
+
+  color: var(--foreground);
+
+  line-height: 1.7;
+
+  font-size: 16px;
+}
+

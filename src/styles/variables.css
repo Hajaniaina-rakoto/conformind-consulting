@@ -1,0 +1,27 @@
+:root {
+
+  /* TYPOGRAPHY */
+  --font-heading: "Poppins", sans-serif;
+  --font-body: "Inter", sans-serif;
+
+  /* CONTAINER */
+  --container-width: 1440px;
+
+  /* RADIUS */
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+
+  /* TRANSITIONS */
+  --transition-fast: 150ms ease;
+
+  --transition-normal: 300ms ease;
+
+  --transition-slow: 500ms ease;
+
+  /* HEADER */
+  --header-height: 80px;
+
+  --mobile-header-height: 70px;
+}
